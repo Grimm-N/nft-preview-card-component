@@ -1,4 +1,4 @@
-# nft-preview-card-component
+# 📱 nft-preview-card-component
 NFT preview card component (HTML, LESS, JS, JSON, fetch)
 # Frontend Mentor - NFT preview card component solution
 
