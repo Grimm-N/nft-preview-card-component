@@ -1,5 +1,5 @@
 # 📱 NFT preview card component (HTML, LESS, JS, JSON, fetch)
-![Web Design](./screenshots/web.png)
+![Web Design](./screenshots/all.png)
 
 ## Table of contents
 
